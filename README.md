@@ -1,7 +1,6 @@
 # awesome-app-ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Ideas for sample projects you could create with a framework to demonstrate its approach to solving specific problems
-
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 
@@ -12,12 +11,16 @@
 ### Battery status monitor
 
 ### Benjamin Franklin's 13 Virtues app
-
 ### Book search
 
 ### BTN workouts app
 
 ### Calculator
+
+A simple Calculator program with Standard functions or with Scientific functions.  
+Basic Arithmetic Operations -> Add, Subtract, Multiply, Divide  
+Memory Operations -> Save to Memory, Recall from Memory, Clear Memory, Operations History  
+Other Operations -> Clear Data (Clears the input area and data from memory)
 
 ### Running Calculator - Time, Distance, Pace for your next race
 
@@ -87,6 +90,10 @@ This app should resemble an HR type dashboard where a user can login and view in
 ### Gym Keeper (Sets / Rep Counter)
 
 ### Hacker News API/search client
+
+### Hand Gesture Detector/Translator
+
+An app that will use device camera as input, detect a person's gestures & movements and translate them into meaningful work i.e. perform some actions based on detected hand gestures. Best use case would be using it for teaching new things to toddlers with sounds and animations. Also, it can make understanding and interaction easier with deaf-dumb people.
 
 ### Hangman
 
@@ -164,6 +171,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Stock Portfolio Tracker
 
+### Surf App
+
+Let the user register his location and then give reports showing which beaches are the best to surf in the next days. It's a good oportunity to use weather API's for something more specific.
+
 ### Tic-tac-toe
 
 ### Timetable app
@@ -193,6 +204,7 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 ### WhatsApp Style Messaging App
 
 ### Wine cellar (wine manager)
+A manager at a high end restaurant needs an app to help manage the restaurants collection of (x) bottles of wine. The manager would like to know the vineyard, location, year, style, location in cellar, how many bottles remain, selling price, buying price, as well as tasting notes. All fields need to be updatable as prices, tasting notes and years will all change frequently. It should have an image of the label/bottle as well. 
 
 ### Working parents dinner app
 
